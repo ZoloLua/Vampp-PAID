@@ -13,4 +13,6 @@ return {
 -- Lazer
 [4729904616] = true,
 [987707321] = true,
+-- Sarah
+[3379174220] = true,
 }
